@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298900160653",
+    "project_id": "movir-reminder",
+    "storage_bucket": "movir-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298900160653:android:e83163764377dae84ae2c4",
+        "android_client_info": {
+          "package_name": "com.licharstudio.moviereminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298900160653-q2i9vqfrrnodf4acd0hfpg2n9rfhr5cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0h3Cw8__znFPZJfQ2uv3O5P4OU4U36JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298900160653-q2i9vqfrrnodf4acd0hfpg2n9rfhr5cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
